@@ -1,0 +1,10 @@
+name: water-sub
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - xlrd
+  - pandas
+  - scipy
