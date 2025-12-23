@@ -3,4 +3,7 @@ A database of rheologic flow laws for rocks and minerals. Contains functions to 
 
 Launch on Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabe-epstein/rheology-engine/HEAD)
 
-Development of this code was funded by NSF grant EAR PF 2305636, awarded to G. Epstein ![NSF_logo](NSF_logo.png)
+Development of this code was funded by NSF grant EAR PF 2305636, awarded to G. Epstein
+<p align="right">
+  <img src="NSF_logo.png" alt="NSF_ogo" width="200"/>
+</p>
