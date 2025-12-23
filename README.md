@@ -5,4 +5,5 @@ Launch on Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://
 
 <p align="left">
   <img src="NSF_logo.png" alt="NSF_ogo" width="150"/>
-</p> Development of this code was funded by NSF grant EAR PF 2305636, awarded to G. Epstein
+</p> 
+Development of this code was funded by NSF grant EAR PF 2305636, awarded to G. Epstein
